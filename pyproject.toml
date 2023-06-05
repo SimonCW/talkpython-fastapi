@@ -2,7 +2,7 @@
 name = "talkpython-fastapi-course"
 version = "0.1.0"
 description = ""
-authors = ["Simon Weiß <simon.weiss@alexanderthamm.com>"]
+authors = ["Simon Weiß <weiss.simon@outlook.com>"]
 readme = "README.md"
 packages = [{ include = "talkpython_fastapi_course" }]
 
