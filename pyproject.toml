@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "talkpython-fastapi-course"
+version = "0.1.0"
+description = ""
+authors = ["Simon Weiß <simon.weiss@alexanderthamm.com>"]
+readme = "README.md"
+packages = [{ include = "talkpython_fastapi_course" }]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+fastapi = "^0.96.0"
+uvicorn = "^0.22.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
