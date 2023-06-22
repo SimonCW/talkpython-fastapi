@@ -10,6 +10,7 @@ packages = [{ include = "talkpython_fastapi_course" }]
 python = "^3.11"
 fastapi = "^0.96.0"
 uvicorn = "^0.22.0"
+aiofiles = "^23.1.0"
 
 
 [build-system]
